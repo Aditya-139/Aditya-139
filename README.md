@@ -12,8 +12,6 @@ Navigating the multidimensional space of data.<br>🎯 Pursuing B.Tech with a fo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-139&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-139&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya-139&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
